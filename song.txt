@@ -3,4 +3,13 @@ Feur Frie!
 Beliver
 America
 Rosenrot
-add new line:w
+<<<<<<< HEAD
+11
+22
+33
+44
+
+=======
+Plakala
+Hurtbit
+>>>>>>> refs/remotes/origin/main
